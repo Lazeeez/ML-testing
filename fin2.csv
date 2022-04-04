@@ -1,3 +1,4 @@
+name, department, designation, emp_id, reports_to
 Sandeep,All Departments,Founder,EMP-00001,
 Nikhil Sharma,Technology - Platforms - NTEX,Vice President – Technology,EMP-00002,EMP-00001
 Rakesh Singh,Technology - Platforms - NTEX,Director-Technology,EMP-00003,EMP-00002
