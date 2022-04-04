@@ -1,5 +1,13 @@
 name,department,designation,emp_id,reports_to
 Sandeep,All Departments,Founder,EMP-00001,
+Sanjay Jain,Technology - Product Management - NTEX,Product Manager,EMP-00026,EMP-00025
+Nikhil Karwa,Technology - Platforms - NTEX,Finance Manager,EMP-00027,EMP-00001
+Sushant Chivate,Technology - Platforms - NTEX,Account Manager,EMP-00028,EMP-00027
+Piyush Kankariya,Technology - Platforms - NTEX,Accounts Execuitve,EMP-00029,EMP-00027
+Jayesh Katke,Technology - Platforms - NTEX,Accounts Execuitve,EMP-00030,EMP-00027
+Sourabh Jain,Technology - Product Management - NTEX,Product Manager,EMP-00031,EMP-00025
+Vrushali Jatti,Technology - Product Management - NTEX,Team Leader,EMP-00032,EMP-00003
+Chetan Garghate,Operations - Field Sales - NTEX,Management Trainee,EMP-00033,EMP-00032
 Nikhil Sharma,Technology - Platforms - NTEX,Vice President – Technology,EMP-00002,EMP-00001
 Rakesh Singh,Technology - Platforms - NTEX,Director-Technology,EMP-00003,EMP-00002
 Amit Anand,Operations - Field - NTEX,Lead Engineer,EMP-00004,EMP-00003
@@ -23,14 +31,6 @@ Shobhit Kumar Singh,Operations - NTEX,Regional Manager,EMP-00022,EMP-00021
 Manish Dubey,Technology - Product Management - NTEX,Director - Sales,EMP-00023,EMP-00001
 Vinay Tiwari,Technology - Product Management - NTEX,City Manager,EMP-00024,EMP-00023
 Hitesh Luthra,Technology - Product Management - NTEX,Vice President - Operations,EMP-00025,EMP-00001
-Sanjay Jain,Technology - Product Management - NTEX,Product Manager,EMP-00026,EMP-00025
-Nikhil Karwa,Technology - Platforms - NTEX,Finance Manager,EMP-00027,EMP-00001
-Sushant Chivate,Technology - Platforms - NTEX,Account Manager,EMP-00028,EMP-00027
-Piyush Kankariya,Technology - Platforms - NTEX,Accounts Execuitve,EMP-00029,EMP-00027
-Jayesh Katke,Technology - Platforms - NTEX,Accounts Execuitve,EMP-00030,EMP-00027
-Sourabh Jain,Technology - Product Management - NTEX,Product Manager,EMP-00031,EMP-00025
-Vrushali Jatti,Technology - Product Management - NTEX,Team Leader,EMP-00032,EMP-00003
-Chetan Garghate,Operations - Field Sales - NTEX,Management Trainee,EMP-00033,EMP-00032
 Sudhir Patil,Technology - Product Management - NTEX,Vice President - Product Engineering,EMP-00034,EMP-00001
 Khanak Jha,Technology - Product Management - NTEX,Sr. Manager - HR,EMP-00035,EMP-00034
 Chanakya Kanta,Technology - Product Management - NTEX,HR Manager,EMP-00036,EMP-00034
