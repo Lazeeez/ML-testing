@@ -27,9 +27,6 @@
 
 - [Case study: DNA methylation data analysis](https://www.edx.org/course/case-study-dna-methylation-data-analysis-harvardx-ph525-8x)
 
-- [Genomic Data Science with Galaxy ](https://www.coursera.org/course/gengalaxy)
-
-
 ### Algorithm and Programming
 - [Algorithms, Biology, and Programming for Beginners](https://www.coursera.org/course/algobioprogramming)
 
