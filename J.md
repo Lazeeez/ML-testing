@@ -7,12 +7,6 @@
 
 ### Bioinformatics and Computational Biology
 
-- [Bioinformatics Algorithms I](https://www.coursera.org/course/bioinformatics)
-
-- [Bioinformatics Methods I](https://www.coursera.org/course/bioinfomethods1)
-
-- [Bioinformatics Methods II](https://www.coursera.org/course/bioinfomethods2)
-
 - [Finding Hidden Messages in DNA (Bioinformatics I) ](https://www.coursera.org/course/hiddenmessages)
 
 - [Genome Sequencing (Bioinformatics II) ](https://www.coursera.org/course/assembly)
