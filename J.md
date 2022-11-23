@@ -66,8 +66,6 @@
 
 - [Network Analysis in Systems Biology](https://www.coursera.org/course/netsysbio)
 
-- [Dynamical Modeling Methods for Systems Biology ](https://www.coursera.org/course/dynamicalmodeling)
-
 - [Integrated Analysis in Systems Biology ](https://www.coursera.org/course/integratedanalysis)
 
 
