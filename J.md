@@ -2,7 +2,7 @@
 - [Introduction To Python](https://www.programiz.com/python-programming)
 - [Python for Everybody](https://www.py4e.com/)
 - [Python for Biologists I](https://pythonforbiologists.org/)
-- [Introduction To Algorithms and Data Structures](https://www.coursera.org/specializations/data-structures-algorithms)
+- [Introduction To Algorithms and Data Structures (paid but imp)](https://www.coursera.org/specializations/data-structures-algorithms)
 
 
 ### Bioinformatics and Computational Biology
