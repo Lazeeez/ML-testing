@@ -69,7 +69,7 @@
 - [Integrated Analysis in Systems Biology ](https://www.coursera.org/course/integratedanalysis)
 
 
-### Machine Learning
+### Machine Learning (IMP)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning), by Andrew Ng, Stanford University
 
 - [Learning from Data](https://work.caltech.edu/telecourse.html), by Yaser S. Abu-Mostafa, California Institute of Technology.
@@ -86,9 +86,6 @@
 
 - [Statistics for Genomic Data Science ](https://www.coursera.org/course/genstats)
 
-### Specilization Courses on Coursera
-- [Bioinformatics](https://www.coursera.org/specialization/bioinformatics/34), University of California, San Diego
-
-- [Genomic Data Science](https://www.coursera.org/specialization/genomics/41), Johns Hopkins University
+### Specilization Courses on Coursera (IMP)
 
 - [Systems Biology](https://www.coursera.org/specialization/systemsbiology/6), Icahn School of Medicine at Mount Sinai
