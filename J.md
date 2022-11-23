@@ -1,7 +1,3 @@
-## MOOCs & Blogs on Computational Biology and Bioinformatics
-
-Here is the list of Massive Open Online Courses (MOOCs) useful for people who are interested to learn about Computational Biology and Bioinformatics.
-
 ### Basic Python Programming
 - [Introduction To Python](https://www.programiz.com/python-programming)
 - [Python for Everybody](https://www.py4e.com/)
