@@ -52,10 +52,6 @@
 ### Genomics, Epigenomics
 - [Introduction to Genomic Technologies ](https://www.coursera.org/course/genintro)
 
-- [Epigenetic Control of Gene Expression](https://www.coursera.org/course/epigenetics)
-
-- [Experimental Genome Science](https://www.coursera.org/course/genomescience)
-
 - [Genomic Medicine Gets Personal](https://www.edx.org/course/georgetownx/georgetownx-medx202-01-genomic-medicine-837)
 
 - [Cancer in the 21st Century: The Genomic Revolution](https://www.futurelearn.com/courses/cancer-and-the-genomic-revolution)
